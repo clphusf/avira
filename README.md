@@ -1,4 +1,4 @@
-# Avirabot
+# DIMON
 
 [![https://yago.me/tg-bot](https://img.shields.io/badge/💬_Telegram-Avirabot-blue.svg)](https://telegram.me/avirabot)
 
@@ -228,5 +228,5 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
-  sudo_users = {Yourid}
+  sudo_users = {142266345}
 ```
